@@ -1,1 +1,1 @@
-# HostelManagement
+# Hostel Management
