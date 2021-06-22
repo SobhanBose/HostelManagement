@@ -1,0 +1,1 @@
+import hostel_mgmt
